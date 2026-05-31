@@ -13,18 +13,18 @@ To write a Python program that calculates the **area of a circle** based on the 
 ## 🧾 Program
 ```
 class cse:
+    
     def mech(self, r):
         area = 3.14 * r * r
-        print("Area of Circle:", area)
+        print("Area of Circle =", area)
 
-radius = float(input("Enter radius: "))
+radius = float(input("Enter the radius: "))
 
 obj = cse()
 obj.mech(radius)
 ```
-
 ## Output
-<img width="220" height="69" alt="image" src="https://github.com/user-attachments/assets/c3e5d988-1b6d-46a2-b2cb-81c23ed0b7ba" />
+<img width="640" height="108" alt="image" src="https://github.com/user-attachments/assets/cf04e76b-3ded-4bb2-b8f6-0c8574fde4e8" />
 
 ## Result
-Thus, the Python program to calculate the area of a circle using a class cse and method mech was executed successfully and the output was verified.
+Thus, the Python program to calculate the area of a circle using a class and method was executed successfully and the output was verified.
